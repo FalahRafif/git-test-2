@@ -9,5 +9,9 @@
 <body>
     <h1>halo bro</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate impedit accusamus similique error molestias cupiditate tempore voluptatibus! Tempora explicabo, ex saepe, placeat sint perspiciatis obcaecati earum magnam dignissimos natus et.</p>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+    </ul>
 </body>
 </html>
